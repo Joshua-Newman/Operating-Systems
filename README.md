@@ -1,5 +1,8 @@
 # OpSys-Spr2020
 
+This is the code for an operating system that was being written during spring 2020. Unfortunately covid hit and the lab had to be changed due to working remote. 
+-Josh
+
 Lab01
   clearScreen function: Using a for loop that loops through 24 times, we were able
                         to implement 24 carriage return character and 24 newline
